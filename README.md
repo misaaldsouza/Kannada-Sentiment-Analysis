@@ -4,7 +4,12 @@ To develop a sentiment analysis system using the kannada natural language. LSTM 
 
 ### Dataset Source 
 
-https://www.kaggle.com/datasets/saurabhdrao/kannadadataset
+https://www.kaggle.com/datasets/saurabhdrao/kannadadatase
+
+### Colab File 
+
+Requirements : kanPos.txt, kanNeg.txt, akshar.ttf
+https://colab.research.google.com/drive/1FwNyI7czabQh9HZHkBoeibQ6g7V9-KUd?authuser=1#scrollTo=uEpsGuPTE-R0
 
 ### Installation
 
